@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "./static/css/main.2889edf4.css",
-    "main.js": "./static/js/main.60a459d8.js",
-    "static/js/453.d4ce181a.chunk.js": "./static/js/453.d4ce181a.chunk.js",
-    "static/media/bank.png": "./static/media/bank.26bfdb3e567a4d94bcef.png",
-    "static/media/banner.png": "./static/media/banner.9279e2362961a6351f0b.png",
-    "static/media/flower.png": "./static/media/flower.43531019832422d687f5.png",
-    "static/media/book.png": "./static/media/book.44f0976b26e6b1b6c54e.png",
-    "static/media/moon.png": "./static/media/moon.90ae7577c8103c291434.png",
-    "static/media/weatherapp.jpg": "./static/media/weatherapp.b65cced2002c210917e6.jpg",
-    "static/media/calllogo.png": "./static/media/calllogo.1fc92e381e9727b533b6.png",
-    "static/media/burger.png": "./static/media/burger.5a582935a4cae5a20625.png",
-    "static/media/cat.png": "./static/media/cat.48ac8f374cbb1ec4e838.png",
-    "static/media/fly.png": "./static/media/fly.e43cb2202a344a714172.png",
-    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "./index.html",
-    "main.2889edf4.css.map": "./static/css/main.2889edf4.css.map",
-    "main.60a459d8.js.map": "./static/js/main.60a459d8.js.map",
-    "453.d4ce181a.chunk.js.map": "./static/js/453.d4ce181a.chunk.js.map"
+    "main.css": "/myportfolio/static/css/main.2889edf4.css",
+    "main.js": "/myportfolio/static/js/main.2e67be47.js",
+    "static/js/453.d4ce181a.chunk.js": "/myportfolio/static/js/453.d4ce181a.chunk.js",
+    "static/media/bank.png": "/myportfolio/static/media/bank.26bfdb3e567a4d94bcef.png",
+    "static/media/banner.png": "/myportfolio/static/media/banner.9279e2362961a6351f0b.png",
+    "static/media/flower.png": "/myportfolio/static/media/flower.43531019832422d687f5.png",
+    "static/media/book.png": "/myportfolio/static/media/book.44f0976b26e6b1b6c54e.png",
+    "static/media/moon.png": "/myportfolio/static/media/moon.90ae7577c8103c291434.png",
+    "static/media/weatherapp.jpg": "/myportfolio/static/media/weatherapp.b65cced2002c210917e6.jpg",
+    "static/media/calllogo.png": "/myportfolio/static/media/calllogo.1fc92e381e9727b533b6.png",
+    "static/media/burger.png": "/myportfolio/static/media/burger.5a582935a4cae5a20625.png",
+    "static/media/cat.png": "/myportfolio/static/media/cat.48ac8f374cbb1ec4e838.png",
+    "static/media/fly.png": "/myportfolio/static/media/fly.e43cb2202a344a714172.png",
+    "static/media/logo.svg": "/myportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myportfolio/index.html",
+    "main.2889edf4.css.map": "/myportfolio/static/css/main.2889edf4.css.map",
+    "main.2e67be47.js.map": "/myportfolio/static/js/main.2e67be47.js.map",
+    "453.d4ce181a.chunk.js.map": "/myportfolio/static/js/453.d4ce181a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2889edf4.css",
-    "static/js/main.60a459d8.js"
+    "static/js/main.2e67be47.js"
   ]
 }
