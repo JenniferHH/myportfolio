@@ -1,0 +1,135 @@
+.contect{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.wrap{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.wrap .button {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0 10px;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    transition: width 0.3s ease-out; 
+    overflow: hidden;
+}
+
+.wrap .button:hover {
+    width: 150px; 
+}
+
+.wrap .button .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px; 
+    height: 50px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    transition: width 0.3s ease-out; 
+}
+
+.wrap .button:nth-child(1):hover {
+    background: rgb(255, 154, 3);
+}
+.wrap .button:nth-child(2):hover {
+    background: rgb(10,102,194);
+}
+.wrap .button:nth-child(3):hover {
+    background: rgb(234,67,53);
+}
+
+.wrap .button .icon svg {
+    font-size: 20px; 
+    line-height: 1; 
+    margin-left:15px ;
+    transition: width 0.3s ease-out; 
+}
+
+.wrap .button:hover p{
+    color: white;
+}
+.wrap .button:hover svg{
+    color: white;
+}
+.wrap .button p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    opacity: 0; 
+    transition: opacity 0.3s ease-out;
+    transform: translateY(30%);
+}
+
+.wrap .button:hover p {
+    opacity: 1;
+}
+
+.button .icon a {
+    text-decoration: none;
+    color: black;
+    }
+.button a {
+    text-decoration: none;
+    color: black;
+    }
+
+img{
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.weatherapp:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+
+.calllogo:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+
+.burger:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+.flower:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+.banner:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+.moon:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+.fly:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+.book:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+.cat:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+.bank:hover img {
+    filter: blur(2px);
+    transition: filter 0.3s ease-out; 
+}
+
+

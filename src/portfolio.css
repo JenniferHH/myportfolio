@@ -1,0 +1,189 @@
+
+.hard {
+    width: 80%;
+    position: relative;
+    margin-left: 5%;
+    margin-top: 1px;
+}
+
+.contact {
+    position: relative;
+    width: 50%;
+    left: 65%;
+    margin-top: 100px;
+    font-size: 25px;
+    font-style: italic;
+}
+
+.work {
+    position: relative;
+}
+
+.blue {
+    background-color: #184aed75;
+}
+
+.intro-banner-vdo-play-btn {
+    height: 20px;
+    width: 20px; 
+    position: relative;
+    top: 10%;
+    left: 0; 
+    text-align: center;
+    margin: -300px 0 0 950px; 
+    border-radius: 100px;
+    z-index: 1;
+}
+
+.intro-banner-vdo-play-btn i {
+    line-height: 56px;
+    font-size: 30px;
+}
+
+.intro-banner-vdo-play-btn .ripple {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    z-index: -1;
+    left: 50%;
+    top: 50%;
+    opacity: 0;
+    margin: -80px 0 0 -80px;
+    border-radius: 100px;
+    -webkit-animation: ripple 2s infinite;
+    animation: ripple 3s infinite;
+}
+
+@keyframes ripple {
+    0% {
+        opacity: 1;
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+    100% {
+        opacity: 0;
+        -webkit-transform: scale(1);
+        transform: scale(0.4);
+    }
+}
+
+
+
+.text{
+    width: 200px;
+    position: relative;
+    margin-top: -20px;
+    text-align: center;
+    margin-left: 970px;
+}
+.line{
+    border-left: 1px solid ;
+    height: 30px;
+    position: relative;
+    left: 80px;
+    margin: 20px;
+}
+
+.jennifer{
+    position: relative;
+    margin-left: 6%;
+    margin-top: 23px;
+    
+}
+
+.she{
+    position: relative;
+    margin-top: 57px;
+    margin-left: -120px; 
+}
+
+.table-custom {
+    border-spacing: 15px; 
+}
+.table-custom td, .table-custom th {
+    padding: 10px; 
+
+}
+
+.table-custom p {
+    margin: 0; 
+}
+
+
+
+
+.wrapper .button {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 0 10px;
+    width: 50px;
+    height: 50px;
+    background: white;
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+    transition: width 0.3s ease-out; 
+    overflow: hidden;
+}
+
+.wrapper .button:hover {
+    width: 150px; 
+}
+
+.wrapper .button .icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px; 
+    height: 50px;
+    text-align: center;
+    border-radius: 50px;
+    box-sizing: border-box;
+    transition: width 0.3s ease-out; 
+}
+
+.wrapper .button:nth-child(1):hover {
+    background: rgb(255, 209, 79);
+}
+.wrapper .button:nth-child(2):hover {
+    background: rgb(10,102,194);
+}
+.wrapper .button:nth-child(3):hover {
+    background: rgb(234,67,53);
+}
+
+.wrapper .button .icon svg {
+    font-size: 20px; 
+    line-height: 1; 
+    margin-left:15px ;
+    transition: width 0.3s ease-out; 
+}
+
+.wrapper .button:hover p{
+    color: white;
+}
+.wrapper .button:hover svg{
+    color: white;
+}
+.wrapper .button p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+    opacity: 0; 
+    transition: opacity 0.3s ease-out;
+   
+}
+
+.wrapper .button:hover p {
+    opacity: 1;
+}
+
+.button .icon a {
+    text-decoration: none;
+    color: black;
+    }
+.button a {
+    text-decoration: none;
+    color: black;
+    }
